@@ -5,3 +5,4 @@ Com a pasta aberta no terminal, digite npm install
 
 Terminada a instalação digite npm run dev no terminal
 
+demo: https://jogofasterscaio.netlify.app/
