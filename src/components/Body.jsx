@@ -334,8 +334,7 @@ export default function Body({ user }) {
       <div className="container-fluid bg-dark p-2 text-light footercontainer">
         <p className="text-center fw-semibold h5 footert">Feito por
           <a className="ms-2 text-light " href="https://github.com/caiourtiga">Caio Urtiga. </a>
-          <a className="ms-2 text-light " href="https://github.com/caiourtiga">Caio Urtiga. </a>
-
+          <a className="ms-2 text-light " href="https://github.com/caiourtiga/zjogofasters">Repositório </a>
         </p>
       </div>
     </>
